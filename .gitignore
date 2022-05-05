@@ -1,0 +1,6 @@
+node_modules
+.env
+package-lock.json
+databases/channels/enmap.sqlite
+databases/channels/enmap.sqlite-shm
+databases/channels/enmap.sqlite-wal

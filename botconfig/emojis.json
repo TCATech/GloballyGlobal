@@ -1,0 +1,15 @@
+{
+  "loading": "<:windows_loading:925035226827202621>",
+  "pong": "🏓",
+  "arrow": "<:arrow:971604660362313859>",
+  "success": "<:Check:873399554555383849>",
+  "fail": "<:Cross:873399628500987945>",
+  "buttons": {
+    "discord": "970681425672151072"
+  },
+  "faq": {
+    "patreon": "<:Patreon:970681106082955294>",
+    "discord": "<:Discord:970681425672151072>",
+    "painbot": "<:PainBotLogo:970681791444844574>"
+  }
+}
